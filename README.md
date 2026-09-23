@@ -38,6 +38,7 @@ O roteiro completo está em [`docs/roteiro-aulas.md`](docs/roteiro-aulas.md).
 - `docs/` — roteiro de aula.
 - `ACOMPANHAMENTO.md` — links e materiais de apoio coletados durante a
   preparação do curso.
+- `slides-agentes-ia-dev.pdf` — slide completo da aula.
 
 ## Como rodar
 

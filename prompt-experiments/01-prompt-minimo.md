@@ -23,3 +23,17 @@ alternar entre claro e escuro, com uma aparência moderna.
 _(preencher durante a aula)_
 
 -
+
+## Ensaio prévio (2026-09-23, backup caso a demo ao vivo saia diferente)
+
+Resultado real ao rodar este prompt contra o `demo-site/` limpo (sem
+`CLAUDE.md`/`AGENTS.md`):
+
+- Botão foi colocado dentro do `<nav>`, misturado com os links, em vez
+  de um elemento isolado do header.
+- Não reaproveitou as CSS variables existentes: criou cores novas
+  hardcoded (`#121212`, `#1e1e1e`, `#b0b0b0`) em vez de um segundo bloco
+  `--background`/`--text`/`--surface` para o tema escuro.
+- Não persiste a escolha do usuário — sem `localStorage`, o tema volta
+  ao claro a cada reload da página.
+- 3 arquivos alterados: `index.html`, `script.js`, `style.css`.

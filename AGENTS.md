@@ -34,5 +34,6 @@ diferença entre um prompt mínimo e um prompt estruturado.
 - `desafio-final/` — segunda tarefa para prática livre.
 - `docs/roteiro-aulas.md` — roteiro de aula em 5 blocos.
 - `ACOMPANHAMENTO.md` — links e materiais de apoio da preparação do curso.
+- `slides-agentes-ia-dev.pdf` — slide completo da aula.
 
 Veja `docs/roteiro-aulas.md` para a sequência pedagógica completa.
