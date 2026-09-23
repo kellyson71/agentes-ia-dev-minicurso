@@ -1,9 +1,6 @@
 # Agentes de IA para Desenvolvimento — Minicurso
 
-<p>
-  <img src="assets/logo-minicurso.png" alt="Mini Curso: IA para desenvolvimento, do modelo ao agente" height="120" />
-  <img src="assets/logo-expotec.png" alt="9ª Expotec — Campus Pau dos Ferros IFRN" height="120" />
-</p>
+<img src="assets/logo-minicurso.png" alt="Mini Curso: IA para desenvolvimento, do modelo ao agente" width="100%" />
 
 Material de apoio para um minicurso prático sobre agentes de IA aplicados
 a desenvolvimento de software (Claude Code, Codex, Gemini CLI e afins como
@@ -75,3 +72,7 @@ Ao clonar este repositório e rodar `claude` (ou `codex`) na raiz, o
 `CLAUDE.md`/`AGENTS.md`, a skill `frontend-review` e os subagentes
 `revisor`/`documentador` já ficam disponíveis automaticamente — sem
 nenhum passo extra de configuração.
+
+---
+
+<img src="assets/logo-expotec.png" alt="9ª Expotec — Campus Pau dos Ferros IFRN" height="90" />
