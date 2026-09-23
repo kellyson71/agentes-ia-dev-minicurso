@@ -1,8 +1,14 @@
 # Agentes de IA para Desenvolvimento — Minicurso
 
+<p>
+  <img src="assets/logo-minicurso.png" alt="Mini Curso: IA para desenvolvimento, do modelo ao agente" height="120" />
+  <img src="assets/logo-expotec.png" alt="9ª Expotec — Campus Pau dos Ferros IFRN" height="120" />
+</p>
+
 Material de apoio para um minicurso prático sobre agentes de IA aplicados
 a desenvolvimento de software (Claude Code, Codex, Gemini CLI e afins como
-exemplos).
+exemplos), ministrado na 9ª Expotec do Campus Pau dos Ferros do IFRN
+(23 a 25/09/2026).
 
 ## Ideia central
 
@@ -39,6 +45,7 @@ O roteiro completo está em [`docs/roteiro-aulas.md`](docs/roteiro-aulas.md).
 - `ACOMPANHAMENTO.md` — links e materiais de apoio coletados durante a
   preparação do curso.
 - `slides-agentes-ia-dev.pdf` — slide completo da aula.
+- `assets/` — logos usadas neste README.
 
 ## Como rodar
 
