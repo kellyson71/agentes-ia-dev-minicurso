@@ -29,6 +29,18 @@ Desafio final (aluno pratica sozinho)
 
 O roteiro completo está em [`docs/roteiro-aulas.md`](docs/roteiro-aulas.md).
 
+## Sobre a oficina
+
+- **Evento:** 9ª Expotec — Exposição Científica, Tecnológica e Cultural do
+  Campus Pau dos Ferros (IFRN), tema "Ciência Delas: Inspirando Gerações,
+  Transformando o Alto Oeste".
+- **Data do evento:** 23 a 25/09/2026.
+- **Oficina "Agentes de IA para Desenvolvimento":** 24/09/2026, das 07:30
+  às 10:30 (3h), Campus Pau dos Ferros.
+- **Inscrição no evento:** pelo Suap (participante) ou pela plataforma
+  [Even3](https://www.even3.com.br/9-expotec-campus-pau-dos-ferros-ifrn-759082/)
+  (submissão de trabalhos).
+
 ## Estrutura do repositório
 
 - `demo-site/` — landing page simples usada como terreno de demonstração
