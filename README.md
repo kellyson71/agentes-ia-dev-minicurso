@@ -51,6 +51,8 @@ O roteiro completo está em [`docs/roteiro-aulas.md`](docs/roteiro-aulas.md).
 - `desafio-final/` — segunda tarefa, com decisão de projeto em aberto,
   para o aluno repetir o exercício sozinho.
 - `docs/` — roteiro de aula.
+- `links/` — links curados por tema (agentes/AGENTS.md/Skills,
+  benchmarks, comunidade, ferramentas) para os alunos acessarem depois.
 - `ACOMPANHAMENTO.md` — links e materiais de apoio coletados durante a
   preparação do curso.
 - `slides-agentes-ia-dev.pdf` — slide completo da aula.
